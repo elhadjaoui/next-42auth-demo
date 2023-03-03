@@ -9,6 +9,8 @@
 
 <br>
 
+I created this repository, to introduce [Hive](https://www.hive.fi)'s students and [42](https://42.fr/en/homepage/) students overall to create [NextJS](https://nextjs.org/) application with 42 OAuth authentication with [NextAuth.js](https://next-auth.js.org/). 
+
 # Table of contents
 - [Requirements](#Requirements)
     - [Create a 42 OAuth application](#create-a-42-oauth-application)
@@ -42,7 +44,7 @@ Submit!
 
 ![example app](.github/docs/screen2.png)
 
-After creating your app, you will be provided a client and secret that will need to be informed into .env
+After creating your app, you will be provided a `uid` and `secret` that will need to be informed into .env
 
 
 **To acknowledge:**
@@ -57,7 +59,21 @@ After creating your app, you will be provided a client and secret that will need
 - the JWT [Introduction](https://jwt.io/introduction) page.
 
 # Steps by steps
+
 TODO - will come soon
+
+## TL;DR
+
+## Create the Next.JS app
+
+## Add auth API endpoints
+
+## Encapsulate the session information
+
+## Access the session information
+
+## Sign in / Sign out
+
 
 # Contributing
 
