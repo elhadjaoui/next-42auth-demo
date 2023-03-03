@@ -9,7 +9,6 @@ const invalidPrimaryCampus = (profile) => {
 
 export const authOptions = {
     secret: process.env.SECRET,
-    
     providers: [
         FortyTwoProvider({
             clientId: process.env.FT_UID,
@@ -19,7 +18,7 @@ export const authOptions = {
 
     callbacks: {
         async signIn({ profile, user }) {
-            // don't proceed if missing infos.
+            // don't proceed if missing info.
             if (!profile || !user) return false
             
             // if you want to authorize your app to your campus only
