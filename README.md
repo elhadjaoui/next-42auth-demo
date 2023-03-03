@@ -54,8 +54,8 @@ After creating your app, you will be provided a `uid` and `secret` that will nee
 
 **I highly encourage reading:**
 
-- the [Getting started](https://api.intra.42.fr/apidoc/guides/getting_started) and [Guides](https://api.intra.42.fr/apidoc/guides) pages.
-- the [API endpoints](https://api.intra.42.fr/apidoc).
+- the 42 [Getting started](https://api.intra.42.fr/apidoc/guides/getting_started) and [Guides](https://api.intra.42.fr/apidoc/guides) pages.
+- the 42 [API endpoints](https://api.intra.42.fr/apidoc).
 - the JWT [Introduction](https://jwt.io/introduction) page.
 
 # Steps by steps
