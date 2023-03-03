@@ -7,12 +7,18 @@
   <sub>From <a href="https://hive.fi">Hive Helsinki</a></sub>
 </div>
 
-<br><br>
+<br>
 
+# Table of contents
+- [Requirements](#Requirements)
+    - [Create a 42 OAuth application](#create-a-42-oauth-application)
+- [Steps by steps](#steps-by-steps)
+- [Contributing](#contributing)
+<br>
 
 # Requirements
 
-## Create a 42 OAuth applications
+## Create a 42 OAuth application
 
 First of all, you will need to create a 42OAuth application. 
 You can create your app from the intra [on this page](https://profile.intra.42.fr/oauth/applications/new)
